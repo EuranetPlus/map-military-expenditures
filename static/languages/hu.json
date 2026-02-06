@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "A GDP mennyi részét költjük a hadsereg felfegyverzésére?",
+  "subtitle": "Az uniós országok GDP-arányos katonai kiadásai 2024-ben elérték a 2,04%-ot, ami 25,3%-os növekedést jelent 2022-höz képest.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A SIPRI katonai kiadási adatbázisa 1949 óta tartalmazza az országok éves katonai kiadásait, lehetővé téve az országok katonai kiadásainak összehasonlítását helyi pénznemben, folyó áron; amerikai dollárban, állandó áron és árfolyamon; a GDP arányában; egy főre jutó összegben és a kormányzati kiadások arányában. A definícióval, a forrásokkal és a módszerekkel kapcsolatos információkért kérjük, lásd: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "a GDP-ből",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
