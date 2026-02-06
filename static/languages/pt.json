@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Que percentagem do PIB gastamos no armamento das forças armadas?",
+  "subtitle": "As despesas militares em percentagem do PIB nos países da UE atingiram 2,04% em 2024, representando um aumento de 25,3% em comparação com 2022.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "O Banco de Dados de Gastos Militares do SIPRI apresenta os gastos militares anuais dos países desde 1949, permitindo a comparação dos gastos militares dos países em moeda local a preços correntes; em dólares americanos a preços e taxas de câmbio constantes; como percentagem do PIB; per capita e como percentagem dos gastos governamentais. Para obter informações sobre a definição, as fontes e os métodos, consulte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "do PIB",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
