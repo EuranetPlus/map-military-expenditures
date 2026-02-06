@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanta parte del PIL spendiamo per armare l'esercito?",
+  "subtitle": "La spesa militare in percentuale del PIL nei paesi dell'UE ha raggiunto il 2,04% nel 2024, con un aumento del 25,3% rispetto al 2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il database SIPRI sulle spese militari fornisce la spesa militare annuale dei paesi dal 1949, consentendo di confrontarla in valuta locale a prezzi correnti; in dollari USA a prezzi e tassi di cambio costanti; in percentuale del PIL; pro capite e in percentuale della spesa pubblica. Per informazioni su definizione, fonti e metodi, consultare: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "del PIL",
   "tooltipExtraInfoLabel": "clicca qui"
 }
