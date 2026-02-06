@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel procent van ons bbp besteden we aan de bewapening van het leger?",
+  "subtitle": "De militaire uitgaven als percentage van het bbp in EU-landen bereikten in 2024 2,04%, een stijging van 25,3% ten opzichte van 2022.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De SIPRI-database voor militaire uitgaven geeft de jaarlijkse militaire uitgaven van landen sinds 1949 weer, waardoor vergelijkingen mogelijk zijn tussen de militaire uitgaven van landen in lokale valuta tegen actuele prijzen; in Amerikaanse dollars tegen constante prijzen en wisselkoersen; als percentage van het bbp; per hoofd van de bevolking en als percentage van de overheidsuitgaven. Voor informatie over definities, bronnen en methoden, zie: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van het bbp",
   "tooltipExtraInfoLabel": "Klik hier"
 }
