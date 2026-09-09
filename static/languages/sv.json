@@ -1,12 +1,12 @@
 {
   "title": "Hur mycket av BNP spenderar vi på att beväpna militären?",
-  "subtitle": "Militärutgifterna som andel av BNP i EU-länderna nådde 2,04 % år 2024, vilket motsvarar en ökning med 25,3 % jämfört med 2022.",
+  "subtitle": "Försvarsutgifterna som andel av BNP i EU-länderna uppgick till 2,2 % år 2025, vilket motsvarar en ökning med cirka 47 % jämfört med 2022 (1,5 %).",
   "textNoteDescription": "Notera",
   "textNote": "SIPRI:s databas över militära utgifter visar länders årliga militära utgifter sedan 1949, vilket möjliggör jämförelse av ländernas militära utgifter i lokal valuta till löpande priser; i amerikanska dollar till fasta priser och växelkurser; som andel av BNP; per capita och som andel av de offentliga utgifterna. För information om definition, källor och metoder, se: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Källa",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "av BNP",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "av BNP"
 }

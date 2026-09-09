@@ -1,12 +1,12 @@
 {
-  "title": "¿Cuánto del PIB gastamos en armar a los militares?",
-  "subtitle": "El gasto militar como porcentaje del PIB en los países de la UE alcanzó el 2,04% en 2024, lo que representa un aumento del 25,3% en comparación con 2022.",
+  "title": "¿Qué porcentaje del PIB destinamos al armamento del ejército?",
+  "subtitle": "El gasto en defensa como porcentaje del PIB en los países de la UE alcanzó el 2,2 % en 2025, lo que representa un aumento de alrededor del 47 % en comparación con 2022 (1,5 %).",
   "textNoteDescription": "Nota",
-  "textNote": "La Base de Datos de Gasto Militar del SIPRI ofrece el gasto militar anual de los países desde 1949, lo que permite comparar el gasto militar de los países en moneda local a precios corrientes; en dólares estadounidenses a precios y tipos de cambio constantes; como porcentaje del PIB; per cápita y como porcentaje del gasto público. Para obtener información sobre la definición, las fuentes y los métodos, consulte: https://www.sipri.org/databases/milex/sources-and-methods.",
+  "textNote": "La base de datos de gasto militar del SIPRI proporciona el gasto militar anual de los países desde 1949, lo que permite comparar dicho gasto en moneda local a precios corrientes; en dólares estadounidenses a precios y tipos de cambio constantes; como porcentaje del PIB; per cápita y como porcentaje del gasto público. Para obtener información sobre la definición, las fuentes y los métodos, consulte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Fuente",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
-  "customUnitLabel": "del PIB",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "del PIB"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Kiek BVP išleidžiame kariuomenės apginklavimui?",
-  "subtitle": "Karinės išlaidos, kaip BVP procentinė dalis, ES šalyse 2024 m. pasiekė 2,04 %, t. y. 25,3 % daugiau nei 2022 m.",
+  "subtitle": "Gynybos išlaidos, kaip BVP procentinė dalis, ES šalyse 2025 m. pasiekė 2,2 %, t. y. maždaug 47 % daugiau nei 2022 m. (1,5 %).",
   "textNoteDescription": "Pastaba",
   "textNote": "SIPRI karinių išlaidų duomenų bazėje pateikiamos metinės šalių karinės išlaidos nuo 1949 m., todėl galima palyginti šalių karines išlaidas vietine valiuta dabartinėmis kainomis; JAV doleriais palyginamosiomis kainomis ir valiutų kursais; kaip BVP dalis; vienam gyventojui ir kaip vyriausybės išlaidų dalis. Informacijos apie apibrėžimą, šaltinius ir metodus rasite adresu: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Šaltinis",
   "textSource": "SIPRI (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "BVP",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "BVP"
 }

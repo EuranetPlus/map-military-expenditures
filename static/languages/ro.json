@@ -1,12 +1,12 @@
 {
   "title": "Cât din PIB cheltuim pe înarmarea armatei?",
-  "subtitle": "Cheltuielile militare ca procent din PIB în țările UE au ajuns la 2,04% în 2024, reprezentând o creștere de 25,3% față de 2022.",
+  "subtitle": "Cheltuielile pentru apărare ca procent din PIB în țările UE au ajuns la 2,2% în 2025, reprezentând o creștere de aproximativ 47% față de 2022 (1,5%).",
   "textNoteDescription": "Nota",
   "textNote": "Baza de date SIPRI privind cheltuielile militare prezintă cheltuielile militare anuale ale țărilor din 1949, permițând compararea cheltuielilor militare ale țărilor în monedă locală la prețuri curente; în dolari americani la prețuri și cursuri de schimb constante; ca procent din PIB; pe cap de locuitor și ca procent din cheltuielile guvernamentale. Pentru informații despre definiție, surse și metode, vă rugăm să consultați: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Sursă",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Accesați datele",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "din PIB",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "din PIB"
 }

@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How much of GDP do we spend on arming the military?",
-  "subtitle": "Military expenditure as a percentage of GDP in EU countries reached 2% in 2024, representing an increase of 25% compared to 2022.",
+  "subtitle": "Defence expenditure as a percentage of GDP in EU countries reached 2.2% in 2025, representing an increase of around 47% compared to 2022 (1.5%).",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nBulgaria,BG,0.0215,FALSE,,,,,,,,,\nCroatia,HR,0.0179,FALSE,,,,,,,,,\nCzechia,CZ,0.0192,FALSE,,,,,,,,,\nEstonia,EE,0.0337,FALSE,,,,,,,,,\nHungary,HU,0.0216,FALSE,,,,,,,,,\nLatvia,LV,0.0326,FALSE,,,,,,,,,\nLithuania,LT,0.0312,FALSE,,,,,,,,,\nPoland,PL,0.0415,FALSE,,,,,,,,,\nRomania,RO,0.0230,FALSE,,,,,,,,,\nSlovakia,SK,0.0201,FALSE,,,,,,,,,\nSlovenia,SI,0.0131,FALSE,,,,,,,,,\nAustria,AT,0.0100,FALSE,,,,,,,,,\nBelgium,BE,0.0128,FALSE,,,,,,,,,\nCyprus,CY,0.0165,FALSE,,,,,,,,,\nDenmark,DK,0.0242,FALSE,,,,,,,,,\nFinland,FI,0.0230,FALSE,,,,,,,,,\nFrance,FR,0.0205,FALSE,,,,,,,,,\nGermany,DE,0.0189,FALSE,,,,,,,,,\nGreece,EL,0.0313,FALSE,,,,,,,,,\nIreland,IE,0.0024,FALSE,,,,,,,,,\nItaly,IT,0.0161,FALSE,,,,,,,,,\nLuxembourg,LU,0.0096,FALSE,,,,,,,,,\nNetherlands,NL,0.0192,FALSE,,,,,,,,,\nPortugal,PT,0.0153,FALSE,,,,,,,,,\nSpain,ES,0.0143,FALSE,,,,,,,,,\nSweden,SE,0.0200,FALSE,,,,,,,,,\nMalta,MT,0.005,FALSE,,,,,,,,,",
   "parsedData": [
@@ -431,7 +432,7 @@ export const mapConfig = writable({
   "textNote": "The SIPRI Military Expenditure Database gives the annual military spending of countries since 1949, allowing comparison of countries’ military spending in local currency at current prices; in US dollars at constant prices and exchange rates; as a share of GDP; per capita and as a share of government spending. For information on definition, sources and methods, please see: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textDataAccessAvailable": true,
   "linkDataAccessDescription": "Access the data",
-  "linkDataAccess": "https://milex.sipri.org/sipri",
+  "linkDataAccess": "https://www.sipri.org/databases/milex",
   "legend1": "No data available",
   "legend1Color": "#E0E0E0",
   "customUnitLabelAvailable": true,
@@ -439,7 +440,7 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "How much of GDP do we spend on arming the military?",
-    "subtitle": "Military expenditure as a percentage of GDP in EU countries reached 2.04% in 2024, representing an increase of 25.3% compared to 2022.",
+    "subtitle": "Defence expenditure as a percentage of GDP in EU countries reached 2.2% in 2025, representing an increase of around 47% compared to 2022 (1.5%).",
     "textNoteDescription": "Note",
     "textNote": "The SIPRI Military Expenditure Database gives the annual military spending of countries since 1949, allowing comparison of countries’ military spending in local currency at current prices; in US dollars at constant prices and exchange rates; as a share of GDP; per capita and as a share of government spending. For information on definition, sources and methods, please see: https://www.sipri.org/databases/milex/sources-and-methods.",
     "textSourceDescription": "Source",

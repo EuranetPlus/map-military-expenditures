@@ -1,12 +1,12 @@
 {
   "title": "How much of GDP do we spend on arming the military?",
-  "subtitle": "Military expenditure as a percentage of GDP in EU countries reached 2.04% in 2024, representing an increase of 25.3% compared to 2022.",
+  "subtitle": "Defence expenditure as a percentage of GDP in EU countries reached 2.2% in 2025, representing an increase of around 47% compared to 2022 (1.5%).",
   "textNoteDescription": "Note",
   "textNote": "The SIPRI Military Expenditure Database gives the annual military spending of countries since 1949, allowing comparison of countries’ military spending in local currency at current prices; in US dollars at constant prices and exchange rates; as a share of GDP; per capita and as a share of government spending. For information on definition, sources and methods, please see: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Source",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Access the data",
   "legend1": "No data available",
-  "customUnitLabel": "of GDP",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "of GDP"
 }

@@ -1,12 +1,12 @@
 {
   "title": "A GDP mennyi részét költjük a hadsereg felfegyverzésére?",
-  "subtitle": "Az uniós országok GDP-arányos katonai kiadásai 2024-ben elérték a 2,04%-ot, ami 25,3%-os növekedést jelent 2022-höz képest.",
+  "subtitle": "Az uniós országok GDP-arányos védelmi kiadásai 2025-ben elérték a 2,2%-ot, ami körülbelül 47%-os növekedést jelent 2022-höz képest (1,5%).",
   "textNoteDescription": "Jegyzet",
   "textNote": "A SIPRI katonai kiadási adatbázisa 1949 óta tartalmazza az országok éves katonai kiadásait, lehetővé téve az országok katonai kiadásainak összehasonlítását helyi pénznemben, folyó áron; amerikai dollárban, állandó áron és árfolyamon; a GDP arányában; egy főre jutó összegben és a kormányzati kiadások arányában. A definícióval, a forrásokkal és a módszerekkel kapcsolatos információkért kérjük, lásd: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Forrás",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "a GDP-ből",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "customUnitLabel": "a GDP-ből"
 }

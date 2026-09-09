@@ -1,12 +1,12 @@
 {
   "title": "Koliko BDP porabimo za oboroževanje vojske?",
-  "subtitle": "Vojaški izdatki kot odstotek BDP v državah EU so leta 2024 dosegli 2,04 %, kar predstavlja 25,3-odstotno povečanje v primerjavi z letom 2022.",
+  "subtitle": "Izdatki za obrambo kot odstotek BDP v državah EU so leta 2025 dosegli 2,2 %, kar predstavlja približno 47-odstotno povečanje v primerjavi z letom 2022 (1,5 %).",
   "textNoteDescription": "Opomba",
   "textNote": "Podatkovna baza SIPRI o vojaških izdatkih prikazuje letne vojaške izdatke držav od leta 1949, kar omogoča primerjavo vojaških izdatkov držav v lokalni valuti po tekočih cenah; v ameriških dolarjih po stalnih cenah in menjalnih tečajih; kot delež BDP; na prebivalca in kot delež državne porabe. Za informacije o definiciji, virih in metodah glejte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Vir",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
   "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "BDP",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "BDP"
 }

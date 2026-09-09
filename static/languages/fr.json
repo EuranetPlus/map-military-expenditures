@@ -1,12 +1,12 @@
 {
   "title": "Quel pourcentage du PIB consacrons-nous à l'armement de nos forces armées ?",
-  "subtitle": "Les dépenses militaires en pourcentage du PIB dans les pays de l'UE ont atteint 2,04 % en 2024, soit une augmentation de 25,3 % par rapport à 2022.",
+  "subtitle": "Les dépenses de défense en pourcentage du PIB dans les pays de l'UE ont atteint 2,2 % en 2025, ce qui représente une augmentation d'environ 47 % par rapport à 2022 (1,5 %).",
   "textNoteDescription": "Note",
   "textNote": "La base de données SIPRI sur les dépenses militaires présente les dépenses militaires annuelles des pays depuis 1949, permettant ainsi de comparer ces dépenses en monnaie locale aux prix courants, en dollars américains à prix et taux de change constants, en pourcentage du PIB, par habitant et en pourcentage des dépenses publiques. Pour plus d'informations sur les définitions, les sources et les méthodes, veuillez consulter : https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Source",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Accéder aux données",
   "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "du PIB",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "du PIB"
 }

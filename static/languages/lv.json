@@ -1,12 +1,12 @@
 {
   "title": "Cik lielu daļu no IKP mēs tērējam militārpersonu apbruņošanai?",
-  "subtitle": "Militārie izdevumi procentos no IKP ES valstīs 2024. gadā sasniedza 2,04 %, kas ir par 25,3 % vairāk nekā 2022. gadā.",
+  "subtitle": "Aizsardzības izdevumi ES valstīs procentos no IKP 2025. gadā sasniedza 2,2 %, kas ir par aptuveni 47 % vairāk nekā 2022. gadā (1,5 %).",
   "textNoteDescription": "Piezīme",
   "textNote": "SIPRI militāro izdevumu datubāze sniedz informāciju par valstu ikgadējiem militārajiem izdevumiem kopš 1949. gada, ļaujot salīdzināt valstu militāros izdevumus vietējā valūtā pašreizējās cenās; ASV dolāros nemainīgās cenās un valūtas kursos; kā IKP daļu; uz vienu iedzīvotāju un kā valdības izdevumu daļu. Informāciju par definīciju, avotiem un metodēm skatiet šeit: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Avots",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
   "legend1": "Dati nav pieejami",
-  "customUnitLabel": "no IKP",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "no IKP"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Koliki dio BDP-a trošimo na naoružavanje vojske?",
-  "subtitle": "Vojni izdaci kao postotak BDP-a u zemljama EU dosegnuli su 2,04% u 2024. godini, što predstavlja povećanje od 25,3% u usporedbi s 2022. godinom.",
+  "subtitle": "Izdaci za obranu kao postotak BDP-a u zemljama EU dosegli su 2,2% u 2025., što predstavlja povećanje od oko 47% u usporedbi s 2022. (1,5%).",
   "textNoteDescription": "Bilješka",
   "textNote": "SIPRI-jeva baza podataka o vojnim rashodima prikazuje godišnje vojne rashode zemalja od 1949. godine, omogućujući usporedbu vojnih rashoda zemalja u lokalnoj valuti po tekućim cijenama; u američkim dolarima po stalnim cijenama i tečajevima; kao udio BDP-a; po glavi stanovnika i kao udio državne potrošnje. Za informacije o definiciji, izvorima i metodama pogledajte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Izvor",
   "textSource": "SIPRI (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "BDP-a",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "BDP-a"
 }

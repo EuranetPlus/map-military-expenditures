@@ -1,12 +1,12 @@
 {
   "title": "Kui suure osa SKP-st kulutame sõjaväe relvastamisele?",
-  "subtitle": "Sõjaliste kulutuste osakaal SKPst ELi riikides ulatus 2024. aastal 2,04%-ni, mis on 25,3% suurem kui 2022. aastal.",
+  "subtitle": "Kaitsekulutused SKPst protsendina ELi riikides ulatusid 2025. aastal 2,2%-ni, mis on umbes 47% suurem kui 2022. aastal (1,5%).",
   "textNoteDescription": "Märkus",
   "textNote": "SIPRI sõjaliste kulude andmebaas annab ülevaate riikide iga-aastastest sõjalistest kulutustest alates 1949. aastast, võimaldades võrrelda riikide sõjalisi kulutusi kohalikus valuutas jooksevhindades; USA dollarites püsivhindades ja vahetuskursside alusel; SKP osakaaluna; elaniku kohta ja osana valitsemissektori kulutustest. Teavet definitsiooni, allikate ja meetodite kohta leiate aadressilt: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Allikas",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
   "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "SKP-st",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "SKP-st"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Koľko HDP míňame na vyzbrojovanie armády?",
-  "subtitle": "Vojenské výdavky ako percento HDP v krajinách EÚ dosiahli v roku 2024 2,04 %, čo predstavuje nárast o 25,3 % v porovnaní s rokom 2022.",
+  "subtitle": "Výdavky na obranu ako percento HDP v krajinách EÚ dosiahli v roku 2025 2,2 %, čo predstavuje nárast približne o 47 % v porovnaní s rokom 2022 (1,5 %).",
   "textNoteDescription": "Poznámka",
   "textNote": "Databáza vojenských výdavkov SIPRI poskytuje ročné vojenské výdavky krajín od roku 1949, čo umožňuje porovnanie vojenských výdavkov krajín v miestnej mene v bežných cenách; v amerických dolároch v stálych cenách a výmenných kurzoch; ako podiel na HDP; na obyvateľa a ako podiel na vládnych výdavkoch. Informácie o definícii, zdrojoch a metódach nájdete na stránke: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Zdroj",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "HDP",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "HDP"
 }

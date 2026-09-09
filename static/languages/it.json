@@ -1,12 +1,12 @@
 {
-  "title": "Quanta parte del PIL spendiamo per armare l'esercito?",
-  "subtitle": "La spesa militare in percentuale del PIL nei paesi dell'UE ha raggiunto il 2,04% nel 2024, con un aumento del 25,3% rispetto al 2022.",
+  "title": "Quanto del PIL spendiamo per armare le forze armate?",
+  "subtitle": "Nel 2025, la spesa per la difesa in percentuale del PIL nei paesi dell'UE ha raggiunto il 2,2%, con un incremento di circa il 47% rispetto al 2022 (1,5%).",
   "textNoteDescription": "Nota",
-  "textNote": "Il database SIPRI sulle spese militari fornisce la spesa militare annuale dei paesi dal 1949, consentendo di confrontarla in valuta locale a prezzi correnti; in dollari USA a prezzi e tassi di cambio costanti; in percentuale del PIL; pro capite e in percentuale della spesa pubblica. Per informazioni su definizione, fonti e metodi, consultare: https://www.sipri.org/databases/milex/sources-and-methods.",
+  "textNote": "Il database SIPRI sulle spese militari fornisce i dati annuali sulla spesa militare dei vari paesi a partire dal 1949, consentendo il confronto tra le spese militari dei paesi in valuta locale a prezzi correnti; in dollari statunitensi a prezzi e tassi di cambio costanti; in percentuale del PIL; pro capite e in percentuale della spesa pubblica. Per informazioni su definizioni, fonti e metodi, consultare il seguente link: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Fonte",
   "textSource": "SIPRI (2026)",
-  "linkDataAccessDescription": "Accedi ai dati",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "del PIL",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "del PIL"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Cé mhéad den OTI a chaithimid ar an míleata a armáil?",
-  "subtitle": "Shroich caiteachas míleata mar chéatadán den OTI i dtíortha an AE 2.04% in 2024, arb ionann é agus méadú 25.3% i gcomparáid le 2022.",
+  "subtitle": "Shroich caiteachas cosanta mar chéatadán den OTI i dtíortha an AE 2.2% in 2025, arb ionann é agus méadú de thart ar 47% i gcomparáid le 2022 (1.5%).",
   "textNoteDescription": "Nóta",
   "textNote": "Tugann Bunachar Sonraí Caiteachais Mhíleata SIPRI cuntas ar chaiteachas míleata bliantúil tíortha ó 1949 i leith, rud a chuireann ar chumas comparáid a dhéanamh idir caiteachas míleata tíortha in airgeadra áitiúil ag praghsanna reatha; i ndollair SAM ag praghsanna tairiseacha agus rátaí malairte; mar sciar den OTI; in aghaidh an duine agus mar sciar de chaiteachas an rialtais. Le haghaidh eolais faoi shainmhíniú, foinsí agus modhanna, féach le do thoil: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Foinse",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "den OTI",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "den OTI"
 }

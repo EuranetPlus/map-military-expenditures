@@ -1,12 +1,12 @@
 {
   "title": "Kuinka paljon bruttokansantuotteestamme käytämme armeijan aseistamiseen?",
-  "subtitle": "Sotilasmenojen osuus BKT:sta EU-maissa nousi 2,04 prosenttiin vuonna 2024, mikä on 25,3 prosenttia enemmän kuin vuonna 2022.",
+  "subtitle": "Puolustusmenojen osuus BKT:sta EU-maissa oli 2,2 prosenttia vuonna 2025, mikä on noin 47 prosenttia enemmän kuin vuonna 2022 (1,5 prosenttia).",
   "textNoteDescription": "Huomautus",
   "textNote": "SIPRIn sotilasmenojen tietokanta sisältää tiedot maiden vuosittaisista sotilasmenoista vuodesta 1949 lähtien, ja sen avulla voidaan vertailla maiden sotilasmenoja paikallisessa valuutassa käypinä hintoina, Yhdysvaltain dollareina kiintein hinnoin ja valuuttakurssein, osuutena BKT:sta, asukasta kohden ja osuutena valtion menoista. Lisätietoja määritelmistä, lähteistä ja menetelmistä on osoitteessa: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Lähde",
   "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "BKT:sta",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "BKT:sta"
 }
